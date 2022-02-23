@@ -1,0 +1,13 @@
+.ul-box {
+    align-items: center;
+    align-content: center;
+    padding: 20px; 
+    text-align: center;
+    list-style: inside;
+}
+
+.boxes{
+    align-items: center;
+    align-content: center;
+    display: inline;
+}
